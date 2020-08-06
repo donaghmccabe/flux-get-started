@@ -6,7 +6,7 @@ metadata:
   namespace: demo
   labels:
     app: podinfo
-    hpedevops.net: flux
+    hpedevops.net: flux2
   annotations:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
