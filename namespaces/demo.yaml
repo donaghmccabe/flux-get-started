@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: demo
+    hpedevops.net/example: 1
   name: demo
